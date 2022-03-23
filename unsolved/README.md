@@ -13,7 +13,7 @@ Generation: Unit Testing Debrief Assignment
     * Find the folder you cloned named `unit-testing-mocha-chai` and open it, then familiarize yourself with the code first in `app.js`.  Read the comments in the object definition to figure out what each method is meant to do, and move to the `test` folder and come up with some simple tests in `app.test.js` to find errors, oversights, or bugs in the source code! Don't forget to run the following bash command to install the mocha and chai packages before running tests:
 
     ```bash
-    npm init
+    npm init -y
     npm install mocha chai --save-dev
     ```
 
