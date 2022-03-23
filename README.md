@@ -10,9 +10,10 @@ Generation: Unit Testing Debrief Assignment
     * Navigate to Git Bash on your local machine and `cd` to a place you wish to clone this activity to work on it
     * Once where you need to be in bash, run `git clone` followed by the URL you copied from your forked copy of this github repository
     * Open VSCode, select `File` in the top right, and select `Open Folder`
-    * Find the folder you cloned named `unit-testing-mocha-chai` and open it, then familiarize yourself with the code first in `app.js`.  Read the comments in the class definition to figure out what each method is meant to do, and move to the `test` folder and come up with some simple tests in `app-test.js` to find errors, oversights, or bugs in the source code! Don't forget to run the following bash command to install the mocha and chai packages before running tests:
+    * Find the folder you cloned named `unit-testing-mocha-chai` and open it, then familiarize yourself with the code first in `app.js`.  Read the comments in the object definition to figure out what each method is meant to do, and move to the `test` folder and come up with some simple tests in `app.test.js` to find errors, oversights, or bugs in the source code! Don't forget to run the following bash command to install the mocha and chai packages before running tests:
 
     ```bash
+    npm init
     npm install mocha chai --save-dev
     ```
 
