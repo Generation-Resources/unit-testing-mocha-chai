@@ -1,0 +1,28 @@
+{
+  "name": "unit-testing-mocha-chai",
+  "version": "1.0.0",
+  "description": "Generation: Unit Testing Debrief Assignment",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.3.6"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhoadesd94/unit-testing-mocha-chai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhoadesd94/unit-testing-mocha-chai/issues"
+  },
+  "homepage": "https://github.com/rhoadesd94/unit-testing-mocha-chai#readme"
+}
