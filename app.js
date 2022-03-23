@@ -42,3 +42,7 @@ module.exports = {
         }
     }
 }
+
+module.exports.fizzBuzz(33);
+module.exports.isLeapYear(2020);
+module.exports.isPerfectSquare(1244);
